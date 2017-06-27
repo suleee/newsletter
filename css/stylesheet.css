@@ -63,7 +63,7 @@ li:first-child {
 }
 
 .main-container {
-    background-image: url("assets/bg.jpg");
+    background-image: url("../assets/bg.jpg");
     background-repeat: no-repeat;
     height: 3190px;
     position: relative;
