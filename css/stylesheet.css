@@ -18,7 +18,7 @@ h2 {
     line-height: 26px;
     margin-top: 28px;
     margin-bottom: 0;
-        text-align: center;
+    text-align: center;
 }
 
 p,
@@ -36,7 +36,8 @@ p {
 }
 
 header {
-       text-align: center;;
+    text-align: center;
+    ;
 }
 
 span {
@@ -109,13 +110,16 @@ ul {
     font-style: italic;
     font-size: 14px;
 }
-.third-content p{
+
+.third-content p {
     padding-bottom: 10px;
 }
-.com-p{
+
+.com-p {
     padding: 0;
 }
-.bottom-text{
+
+.bottom-text {
     padding-top: 40px;
     text-align: center;
 }
@@ -126,6 +130,9 @@ ul {
     justify-content: center;
     max-width: 600px;
     margin-top: 31px;
+    max-width: 550px;
+    padding-top: 28px;
+    margin: 0 auto;
 }
 
 .footer-logos {
@@ -141,12 +148,14 @@ ul {
     font-size: 12px;
     margin-left: 0;
 }
-.end-content{
+
+.end-content {
     text-align: center;
 }
 
 
 /*learn more btn*/
+
 
 /*.learnmore {
     background-color: #F6A623;
