@@ -2,4 +2,4 @@
 This is LaTale newsletter
 
 
-![alt tag](/assets.readme.png)
+![alt tag](assets/readme.png)
