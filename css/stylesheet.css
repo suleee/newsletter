@@ -58,14 +58,14 @@ ul {
     padding-left: 25px;
 }
 
-li:first-child {
+.first-content-ul li:first-child {
     padding-bottom: 20px;
 }
 
 .main-container {
     background-image: url("../assets/bg.jpg");
     background-repeat: no-repeat;
-    height: 3190px;
+    height: 3455px;
     position: relative;
 }
 
