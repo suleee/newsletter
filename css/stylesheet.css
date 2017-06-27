@@ -128,11 +128,11 @@ ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    max-width: 600px;
     margin-top: 31px;
-    max-width: 550px;
+    width: 550px;
     padding-top: 28px;
-    margin: 0 auto;
+    margin: 0;
+    padding-left: 30px;
 }
 
 .footer-logos {
